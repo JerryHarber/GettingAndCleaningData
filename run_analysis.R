@@ -57,5 +57,9 @@ run_analysis <- function() {
 	merged5 <- rbind(merged2,merged4)
 	merged5$V1 <- NULL
 	merged5$Row.names <- NULL
+	
+	# Write CSV in R
+	write.csv(merged5, file = "Tiddy_Dataset.csv", row.names=FALSE)
+
 	return(merged5)
 }
