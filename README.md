@@ -1,4 +1,4 @@
-## Code book for UCI HAR Dataset, Getting and Cleaning Data Coursera Course proamming assignment
+## Getting and Cleaning Data Coursera Course proamming assignment
 
 R version 3.3.3 (2017-03-06)
 
