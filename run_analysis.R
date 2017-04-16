@@ -61,5 +61,6 @@ run_analysis <- function() {
 	# Write CSV in R
 	write.csv(merged5, file = "Tiddy_Dataset.csv", row.names=FALSE)
 
+	
 	return(merged5)
 }

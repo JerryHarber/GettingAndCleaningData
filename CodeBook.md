@@ -1,7 +1,7 @@
 ## Code book for UCI HAR Dataset, Getting and Cleaning Data Coursera Course proamming assignment
 
-Column	Variable
-Number	Name				Format		Description
+Column	Variable Name
+Number						Format		Description
 ------  ------------------  --------	----------------
 1.		tBodyAcc.mean...X	Numeric		Signal value from sensor signals (accelerometer and gyroscope)
 2.		tBodyAcc.mean...Y	Numeric		Signal value from sensor signals (accelerometer and gyroscope)
